@@ -2,12 +2,17 @@
   background-color: lightgreen;
   display: inline-block;
   margin: 2rem;
-  border: solid black 5px;
+  border: solid #000 2px;
   border-radius: 20px;
-  box-shadow: 10px;
   padding: 1rem;
   width: 10rem;
   height: 10rem;
+  transition: all ease-in 150ms;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px rgb(12, 83, 131);
 }
 
 .card h1 {
