@@ -67,7 +67,7 @@ export const archiveList = [
     title: 'robofriends',
     date: 'August 18, 2021',
     link: 'https://rodelcdavid.github.io/robofriends/'
-}
+},
 
 {
     id: 11,
