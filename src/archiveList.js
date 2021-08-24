@@ -3,35 +3,35 @@ export const archiveList = [
     id: 1,
     title: 'Ableton Replica',
     date: 'August 3, 2021',
-    link: 'ableton-replica/index.html'
+    link: 'ableton-replica'
 },
 
 {
     id: 2,
     title: 'Whatever Website',
     date: 'August 3, 2021',
-    link: 'whatever-website/index.html'
+    link: 'whatever-website'
 },
 
 {
     id: 3,
     title: 'navbar-1',
     date: 'August 4, 2021',
-    link: 'navbar-1/index.html'
+    link: 'navbar-1'
 },
 
 {
     id: 4,
     title: 'navbar-2',
     date: 'August 4, 2021',
-    link: 'navbar-2/index.html'
+    link: 'navbar-2'
 },
 
 {
     id: 5,
     title: 'Navbar Airbnb',
     date: 'August 6, 2021',
-    link: 'navbar-airbnb/index.html'
+    link: 'navbar-airbnb'
 },
 
 {
