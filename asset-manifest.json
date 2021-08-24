@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-mastery/static/css/main.862fad10.chunk.css",
+    "main.css": "/frontend-mastery/static/css/main.7e1378aa.chunk.css",
     "main.js": "/frontend-mastery/static/js/main.1e0762f5.chunk.js",
     "main.js.map": "/frontend-mastery/static/js/main.1e0762f5.chunk.js.map",
     "runtime-main.js": "/frontend-mastery/static/js/runtime-main.a0fc976c.js",
@@ -8,13 +8,13 @@
     "static/js/2.550418eb.chunk.js": "/frontend-mastery/static/js/2.550418eb.chunk.js",
     "static/js/2.550418eb.chunk.js.map": "/frontend-mastery/static/js/2.550418eb.chunk.js.map",
     "index.html": "/frontend-mastery/index.html",
-    "static/css/main.862fad10.chunk.css.map": "/frontend-mastery/static/css/main.862fad10.chunk.css.map",
+    "static/css/main.7e1378aa.chunk.css.map": "/frontend-mastery/static/css/main.7e1378aa.chunk.css.map",
     "static/js/2.550418eb.chunk.js.LICENSE.txt": "/frontend-mastery/static/js/2.550418eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a0fc976c.js",
     "static/js/2.550418eb.chunk.js",
-    "static/css/main.862fad10.chunk.css",
+    "static/css/main.7e1378aa.chunk.css",
     "static/js/main.1e0762f5.chunk.js"
   ]
 }
