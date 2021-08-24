@@ -1,0 +1,20 @@
+.card {
+  background-color: lightgreen;
+  display: inline-block;
+  margin: 2rem;
+  border: solid black 5px;
+  border-radius: 20px;
+  box-shadow: 10px;
+  padding: 1rem;
+  width: 10rem;
+  height: 10rem;
+}
+
+.card h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 120px;
+  font-size: 1.5rem;
+}

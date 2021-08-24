@@ -1,0 +1,11 @@
+input {
+  padding: 1rem;
+  background-color: lightblue;
+  border: solid black;
+  border-radius: 10px;
+  width: 300px;
+}
+
+input:focus {
+  outline: none;
+}
