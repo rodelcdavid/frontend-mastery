@@ -33,7 +33,7 @@ render(){
 
   return (
     <div className = 'app-container'>
-        <h1 className ='main-header'>UI-PRACTICE</h1>
+        <h1 className ='main-header'>FRONTEND MASTERY</h1>
         <SearchBox searchChange = {this.onSearchChange}/>
         <Scroll>
           <CardList archive= {filteredArchive}/>
