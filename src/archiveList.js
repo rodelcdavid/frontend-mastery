@@ -58,7 +58,7 @@ export const archiveList = [
 {
     id: 9,
     title: 'istanbul',
-    date: 'August 7, 2021',
+    date: 'August 9, 2021',
     link: 'istanbul'
 }
 
