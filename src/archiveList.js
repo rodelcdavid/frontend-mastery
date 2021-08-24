@@ -60,6 +60,20 @@ export const archiveList = [
     title: 'istanbul',
     date: 'August 9, 2021',
     link: 'https://rodelcdavid.github.io/archive-ui-practice/files/istanbul'
+},
+
+{
+    id: 10,
+    title: 'robofriends',
+    date: 'August 18, 2021',
+    link: 'https://rodelcdavid.github.io/robofriends/'
+}
+
+{
+    id: 11,
+    title: 'frontend mastery',
+    date: 'August 24, 2021',
+    link: 'https://rodelcdavid.github.io/frontend-mastery/'
 }
 
 ];
