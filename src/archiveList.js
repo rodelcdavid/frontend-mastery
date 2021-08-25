@@ -74,6 +74,13 @@ export const archiveList = [
     title: 'frontend mastery',
     date: 'August 24, 2021',
     link: 'https://rodelcdavid.github.io/frontend-mastery/'
+},
+
+{
+    id: 12,
+    title: 'Order Summary Component',
+    date: 'August 25, 2021',
+    link: 'https://rodelcdavid.github.io/order-summary-component/'
 }
 
 ];
