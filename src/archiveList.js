@@ -80,7 +80,7 @@ export const archiveList = [
     id: 12,
     title: 'Order Summary Component',
     date: 'August 25, 2021',
-    link: 'https://rodelcdavid.github.io/order-summary-component/'
+    link: 'https://rodelcdavid.github.io/archive-ui-practice/files/order-summary-component'
 }
 
 ];
