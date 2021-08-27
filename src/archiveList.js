@@ -81,6 +81,13 @@ export const archiveList = [
     title: 'Order Summary Component',
     date: 'August 25, 2021',
     link: 'https://rodelcdavid.github.io/archive-ui-practice/files/order-summary-component'
+},
+
+{
+    id: 13,
+    title: 'Stats Preview',
+    date: 'August 27, 2021',
+    link: 'https://rodelcdavid.github.io/archive-ui-practice/files/stats-preview-card-component'
 }
 
 ];
