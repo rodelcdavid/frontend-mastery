@@ -88,6 +88,13 @@ export const archiveList = [
     title: 'Stats Preview',
     date: 'August 27, 2021',
     link: 'https://rodelcdavid.github.io/archive-ui-practice/files/stats-preview-card-component'
+},
+
+{
+    id: 14,
+    title: 'React Router Fortnite',
+    date: 'August 31, 2021',
+    link: 'https://rodelcdavid.github.io/react-router-fortnite/'
 }
 
 ];
