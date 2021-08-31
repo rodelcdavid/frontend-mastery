@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend-mastery/static/css/main.7da459d3.chunk.css",
-    "main.js": "/frontend-mastery/static/js/main.7d8b33da.chunk.js",
-    "main.js.map": "/frontend-mastery/static/js/main.7d8b33da.chunk.js.map",
+    "main.js": "/frontend-mastery/static/js/main.4d6d620e.chunk.js",
+    "main.js.map": "/frontend-mastery/static/js/main.4d6d620e.chunk.js.map",
     "runtime-main.js": "/frontend-mastery/static/js/runtime-main.a0fc976c.js",
     "runtime-main.js.map": "/frontend-mastery/static/js/runtime-main.a0fc976c.js.map",
     "static/js/2.550418eb.chunk.js": "/frontend-mastery/static/js/2.550418eb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a0fc976c.js",
     "static/js/2.550418eb.chunk.js",
     "static/css/main.7da459d3.chunk.css",
-    "static/js/main.7d8b33da.chunk.js"
+    "static/js/main.4d6d620e.chunk.js"
   ]
 }
