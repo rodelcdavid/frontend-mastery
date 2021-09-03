@@ -95,6 +95,13 @@ export const archiveList = [
     title: 'React Router Fortnite',
     date: 'August 31, 2021',
     link: 'https://rodelcdavid.github.io/react-router-fortnite/'
+},
+
+{
+    id: 15,
+    title: '3 Column Preview',
+    date: 'September 3, 2021',
+    link: 'https://rodelcdavid.github.io/archive-ui-practice/files/3-column-preview'
 }
 
 ];
