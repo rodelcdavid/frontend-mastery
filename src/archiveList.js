@@ -102,6 +102,13 @@ export const archiveList = [
     title: '3 Column Preview',
     date: 'September 3, 2021',
     link: 'https://rodelcdavid.github.io/archive-ui-practice/files/3-column-preview'
+},
+
+{
+    id: 16,
+    title: 'FAQ Accordion',
+    date: 'September 4, 2021',
+    link: 'https://rodelcdavid.github.io/archive-ui-practice/files/faq-accordion'
 }
 
 ];
