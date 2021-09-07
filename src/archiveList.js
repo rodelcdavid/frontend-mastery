@@ -109,6 +109,13 @@ export const archiveList = [
     title: 'FAQ Accordion',
     date: 'September 4, 2021',
     link: 'https://rodelcdavid.github.io/archive-ui-practice/files/faq-accordion'
+},
+
+{
+    id: 17,
+    title: 'Boredom Challenge',
+    date: 'September 7, 2021',
+    link: 'https://rodelcdavid.github.io/boredom-challenge/'
 }
 
 ];
